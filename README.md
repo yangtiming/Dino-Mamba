@@ -27,10 +27,10 @@ Mamba, originally introduced for language modeling, has recently garnered attent
 
 | Model | Dimension | ImageNet Top-1 | Download |
 |-------|-----------|----------------|----------|
-| DinoVim-Tiny | 256 | 73.7% | [DinoVim-Tiny](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Tiny/checkpoint.pth) |
-| DinoVim-Small | 512 | 77.4% | [DinoVim-Small](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Small/checkpoint.pth) |
-| DinoVim-Base | 768 | 78.1% | [DinoVim-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Base/checkpoint.pth) |
-| DinoMamba-Reg-Base | 768 | **78.5%** | [DinoMamba-Reg-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Mambar/Base/checkpoint.pth) |
+| DinoVim-Tiny | 256 | 73.7% | [DinoVim-Tiny](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Tiny/) |
+| DinoVim-Small | 512 | 77.4% | [DinoVim-Small](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Small/) |
+| DinoVim-Base | 768 | 78.1% | [DinoVim-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Base/) |
+| DinoMamba-Reg-Base | 768 | **78.5%** | [DinoMamba-Reg-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Mambar/Base/) |
 
 ##  Requirements
 
