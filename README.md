@@ -27,10 +27,10 @@ Mamba, originally introduced for language modeling, has recently garnered attent
 
 | Model | Dimension | ImageNet Top-1 | Download |
 |-------|-----------|----------------|----------|
-| DinoVim-Tiny | 256 | 73.7% | [DinoVim-Tiny](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Tiny/) |
-| DinoVim-Small | 512 | 77.4% | [DinoVim-Small](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Small/) |
-| DinoVim-Base | 768 | 78.1% | [DinoVim-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Vim/Base/) |
-| DinoMamba-Reg-Base | 768 | **78.5%** | [DinoMamba-Reg-Base](https://huggingface.co/Timing1/Dino-Mamba/resolve/main/Mambar/Base/) |
+| DinoVim-Tiny | 256 | 73.7% | [DinoVim-Tiny](https://huggingface.co/Timing1/Dino-Mamba/tree/main/Vim/Tiny/) |
+| DinoVim-Small | 512 | 77.4% | [DinoVim-Small](https://huggingface.co/Timing1/Dino-Mamba/tree/main/Vim/Small/) |
+| DinoVim-Base | 768 | 78.1% | [DinoVim-Base](https://huggingface.co/Timing1/Dino-Mamba/tree/main/Vim/Base/) |
+| DinoMamba-Reg-Base | 768 | **78.5%** | [DinoMamba-Reg-Base](https://huggingface.co/Timing1/Dino-Mamba/tree/main/Mambar/Base/) |
 
 ##  Requirements
 
