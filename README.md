@@ -155,9 +155,3 @@ If you find this work useful, please cite:
 ## Acknowledgements
 
 This work builds upon [DINO](https://github.com/facebookresearch/dino), [Mamba](https://github.com/state-spaces/mamba), [Mamba-Reg](https://github.com/wangf3014/Mamba-Reg) , and [Vision Mamba](https://github.com/hustvl/Vim).
-
-## License
-
-This project is released under the Apache 2.0 license.
-
-
