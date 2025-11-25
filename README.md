@@ -5,7 +5,7 @@ Official PyTorch implementation of **"RNN as Linear Transformer: A Closer Invest
 **Authors:** Timing Yang, Feng Wang, Guoyizhe Wei, Alan Yuille  
 Johns Hopkins University
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX)
+[[Paper]](https://arxiv.org/abs/2511.18380)
 
 
 ## Overview
@@ -141,10 +141,10 @@ torchrun --nproc_per_node=4 --master_port=15400 eval_linear_mambar.py \
 
 If you find this work useful, please cite:
 ```bibtex
-@article{yang2025mamba,
+@article{yang2025dinomamba,
   title={RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models},
-  author={Yang, Timing and Wang, Feng and Wei, Guoyizhe and Yuille, Alan},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Yang, Timing and Wei, Guoyizhe and Yuille, Alan and Wang, Feng},
+  journal={arXiv preprint arXiv:2511.18380},
   year={2025}
 }
 ```
