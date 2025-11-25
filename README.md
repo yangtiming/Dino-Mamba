@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **"RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models"**
 
-**Authors:** Timing Yang, Feng Wang, Guoyizhe Wei, Alan Yuille  
+**Authors:** Timing Yang, Guoyizhe Wei, Alan Yuille, Feng Wang*
 Johns Hopkins University
 
 [[Paper]](https://arxiv.org/abs/2511.18380)
