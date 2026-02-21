@@ -1,6 +1,6 @@
 # Dino-Mamba: Visual Mamba with DINO Self-Supervised Learning
 
-Official PyTorch implementation of **"RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models"**
+[CVPR 2026] Official PyTorch implementation of **"RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models"**
 
 **Authors:** Timing Yang, Guoyizhe Wei, Alan Yuille, Feng Wang* 
 
